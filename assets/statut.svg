@@ -58,46 +58,46 @@
   <path d="M70 88H930" stroke="url(#edge)" stroke-width="1.5"/>
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">
     <text x="70" y="125"><tspan fill="#7fd0ff">NOM</tspan>    Logan</text>
-    <text x="70" y="155"><tspan fill="#7fd0ff">CLASSE</tspan>    Développeur IBM i &amp; intégrateur IA</text>
-    <text x="520" y="125"><tspan fill="#7fd0ff">TITRE</tspan>    Celui qui automatise tout</text>
+    <text x="70" y="155"><tspan fill="#7fd0ff">CLASSE</tspan>    Développeur web &amp; IBM i</text>
+    <text x="520" y="125"><tspan fill="#7fd0ff">TITRE</tspan>    Invocateur de web services</text>
     <text x="520" y="155"><tspan fill="#7fd0ff">ÉTAT</tspan>    <tspan fill="#4ade80">En ligne</tspan> · disponible pour échanger</text>
   </g>
   <path d="M70 175H930" stroke="#1e4e8c" stroke-width="1"/>
   
-    <text x="70" y="210" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">IBM i · RPG · CL</text>
+    <text x="70" y="210" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">PHP · Web</text>
     <rect x="300" y="197" width="380" height="14" rx="2" fill="#0b2148" stroke="#1e4e8c"/>
     <rect x="300" y="197" width="0" height="14" rx="2" fill="url(#bar)" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="350" begin="0.80s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      <animate attributeName="width" from="0" to="342" begin="0.80s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
     </rect>
-    <text x="700" y="210" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">92
+    <text x="700" y="210" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">90
       <animate attributeName="opacity" from="0" to="1" begin="1.60s" dur=".4s" fill="freeze"/></text>
-    <text x="70" y="250" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">SQL DB2 for i</text>
+    <text x="70" y="250" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">Web services · API</text>
     <rect x="300" y="237" width="380" height="14" rx="2" fill="#0b2148" stroke="#1e4e8c"/>
     <rect x="300" y="237" width="0" height="14" rx="2" fill="url(#bar)" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="323" begin="1.05s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      <animate attributeName="width" from="0" to="327" begin="1.05s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
     </rect>
-    <text x="700" y="250" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">85
+    <text x="700" y="250" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">86
       <animate attributeName="opacity" from="0" to="1" begin="1.85s" dur=".4s" fill="freeze"/></text>
-    <text x="70" y="290" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">Python</text>
+    <text x="70" y="290" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">CL · IBM i</text>
     <rect x="300" y="277" width="380" height="14" rx="2" fill="#0b2148" stroke="#1e4e8c"/>
     <rect x="300" y="277" width="0" height="14" rx="2" fill="url(#bar)" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="312" begin="1.30s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      <animate attributeName="width" from="0" to="296" begin="1.30s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
     </rect>
-    <text x="700" y="290" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">82
+    <text x="700" y="290" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">78
       <animate attributeName="opacity" from="0" to="1" begin="2.10s" dur=".4s" fill="freeze"/></text>
-    <text x="70" y="330" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">Automatisation &amp; IA</text>
+    <text x="70" y="330" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">PF · DDS · SQL DB2</text>
     <rect x="300" y="317" width="380" height="14" rx="2" fill="#0b2148" stroke="#1e4e8c"/>
     <rect x="300" y="317" width="0" height="14" rx="2" fill="url(#bar)" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="334" begin="1.55s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      <animate attributeName="width" from="0" to="281" begin="1.55s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
     </rect>
-    <text x="700" y="330" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">88
+    <text x="700" y="330" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">74
       <animate attributeName="opacity" from="0" to="1" begin="2.35s" dur=".4s" fill="freeze"/></text>
-    <text x="70" y="370" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">PHP · Web</text>
+    <text x="70" y="370" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#cfe3ff">RPG (en apprentissage)</text>
     <rect x="300" y="357" width="380" height="14" rx="2" fill="#0b2148" stroke="#1e4e8c"/>
     <rect x="300" y="357" width="0" height="14" rx="2" fill="url(#bar)" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="274" begin="1.80s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      <animate attributeName="width" from="0" to="114" begin="1.80s" dur="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
     </rect>
-    <text x="700" y="370" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">72
+    <text x="700" y="370" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="15" fill="#7fd0ff" opacity="0">30
       <animate attributeName="opacity" from="0" to="1" begin="2.60s" dur=".4s" fill="freeze"/></text>
   <g transform="translate(850 290)">
     <circle r="62" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="8 6" opacity=".8">

@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/banniere.svg" width="100%" alt="[SYSTÈME] Un nouveau Joueur a été enregistré : Logan, développeur IBM i, Python, automatisation et IA"/>
+  <img src="assets/banniere.svg" width="100%" alt="[SYSTÈME] Un nouveau Joueur a été enregistré : Logan, développeur PHP, web services et IBM i"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=7FD0FF&center=true&vCenter=true&width=700&lines=%5BQU%C3%8ATE%5D+Moderniser+les+applications+IBM+i;%5BQU%C3%8ATE%5D+Automatiser+ce+qui+se+r%C3%A9p%C3%A8te;%5BQU%C3%8ATE%5D+Mettre+l'IA+au+service+des+%C3%A9quipes;%5BSYST%C3%88ME%5D+Niveau+suivant+en+cours..." alt="Quêtes en cours"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=7FD0FF&center=true&vCenter=true&width=700&lines=%5BQU%C3%8ATE%5D+Relier+l'IBM+i+au+web;%5BQU%C3%8ATE%5D+Construire+des+web+services+solides;%5BQU%C3%8ATE%5D+Mettre+l'IA+au+service+des+%C3%A9quipes;%5BSYST%C3%88ME%5D+Niveau+suivant+en+cours..." alt="Quêtes en cours"/>
 </p>
 
 <p align="center"><img src="assets/separateur.svg" width="80%"/></p>
 
 ## ⟡ Profil
 
-Développeur sur **IBM i (AS/400)**, je travaille au quotidien sur des ERP en RPG, CL et SQL DB2, et je les fais évoluer vers des outils plus modernes : conversion en RPG full free, interfaces web et intégrations. À côté, je construis des outils d'**automatisation** et d'**assistants IA** en Python et avec Claude Code.
+Développeur **PHP** passionné de **web services**, je relie les applications **IBM i (AS/400)** au web : API REST, échanges entre systèmes, interfaces modernes. Côté IBM i, je suis à l'aise en **CL** et sur les fichiers **PF / DDS** ; le RPG est en cours d'apprentissage. J'aime aussi automatiser et construire des outils avec l'IA.
 
 <p align="center">
   <img src="assets/statut.svg" width="90%" alt="Fenêtre de statut : compétences et rang"/>
@@ -19,8 +19,9 @@ Développeur sur **IBM i (AS/400)**, je travaille au quotidien sur des ERP en RP
 ## ⟡ Compétences
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM%20i-RPG%20·%20CL-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB2%20for%20i-SQL-1E40AF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-Web-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20services-REST%20·%20API-1E40AF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM%20i-CL%20·%20PF%20·%20DDS-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20Code-Agents%20IA-6D28D9?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 <p align="center">
@@ -32,8 +33,8 @@ Développeur sur **IBM i (AS/400)**, je travaille au quotidien sur des ERP en RP
 | | Projet | Description |
 |:-:|---|---|
 | 🟦 | **Jarvis** | Assistant personnel de bureau sur Claude Code : voix, agenda, mails, supervision du PC |
-| 🟪 | **Modernisation IBM i** | Conversion RPG III → full free, webisation d'écrans 5250 |
-| 🟦 | **Automatisation** | Scripts et agents IA pour l'exploitation, les tests et la documentation |
+| 🟪 | **IBM i ↔ web** | Applis PHP et web services branchés sur l'IBM i (DB2, CL) |
+| 🟦 | **Automatisation** | Scripts et outils IA pour gagner du temps au quotidien |
 
 <p align="center"><img src="assets/separateur.svg" width="80%"/></p>
 
